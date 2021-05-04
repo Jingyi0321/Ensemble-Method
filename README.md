@@ -4,3 +4,4 @@ This Python notebook is about Ensemble Method. Include:
   - Random Forest
   - Boosting: AdaBoost
   - Voting
+  - Feature Importance
